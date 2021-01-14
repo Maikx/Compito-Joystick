@@ -1,0 +1,3 @@
+This project uses new input system!!
+It works fine if tested from the computer (mouse), and directly from the phone.
+It doesn't work with unity remote! (odd)
